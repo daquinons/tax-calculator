@@ -1,0 +1,11 @@
+$theme-colors: (
+  "primary": #349beb,
+);
+
+$body-color: #2f2f2f;
+
+@import '~bootstrap/scss/bootstrap.scss';
+
+body {
+  text-align: center;
+}
